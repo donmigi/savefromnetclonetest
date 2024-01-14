@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+
+img{
+    width: 37px;
+}
+
+nav ul img{
+    width: 37px;
+    
+}
+
+nav ul li{
+    font-family: cursive;
+    font-size: 2rem;
+    display: inline-block;
+    text-align: center;
+}
+
+h2{
+    width:200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    width: 70%;
+}
+
+input{
+    padding: 15px 20px;
+    outline: 5px solid lawngreen;
+    border: none;
+    margin-top: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5px;
+}
+
+.url-bar{
+    text-align: center;
+    font-size: x-small;
+    width: 290px;
+    margin-bottom: 50px;
+}
+
+.info{
+    display:inline-block;
+
+}
+
+.social-handles a{
+    color: #333;
+    text-decoration: none;
+}
+
+main aside h3{
+    width: 280px;
+    margin-bottom: 10px;
+    text-align:center;
+}
+
+main aside p{
+    text-align: start;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    word-spacing: 0.3rem;
+}
+
+footer button{
+    padding-right: 45px;
+}
+
+footer figure p{
+    font-family: cursive;
+    font-size: 2rem;
+    display: inline-block;
+    text-align: center;   
+}
+
+footer figure figcaption{
+    text-align: center;
+}
+
+.others p{
+    line-height: 2rem;
+}
+
